@@ -13,7 +13,7 @@ Some of my favorite works include:
 ### Contact Information
 Feel free to reach to me at either my email
 * 📫 myerschris92@gmail.com or you can message me on LinkedIn:
-* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/christopher-myers-35b598125)
+* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/christopher-myers-35b598125/)
 
 ### Publications
 If you're interested in my research, you might enjoy reading some of my publications:
