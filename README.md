@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a Postdoctoral Scholar at the University of California, Merced in theoritical chemistry, focusing on the development of molecular dynamics techniques and density functional theory models for the prediction of condense phase spectroscopy. For my Ph.D., my research focused on the development of molecular dynamics algorithms informed from density functional theory to study various biomolecules. My work is highly coding based and overlaps nicely with data science and machine learning. I also have a background in computer science, software development, and teaching.
+I am a Postdoctoral Scholar at the University of California, Merced in theoretical chemistry, focusing on the development of molecular dynamics techniques and density functional theory models for the prediction of condense phase spectroscopy. For my Ph.D., my research focused on the development of molecular dynamics algorithms informed from density functional theory to study various biomolecules. My work is highly coding based and overlaps nicely with data science and machine learning. I also have a background in computer science, software development, and teaching.
 
 ### Favorite Coding Projects
 Some of my favorite works include:
