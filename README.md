@@ -1,13 +1,11 @@
 ### Hi there! 👋
 
-I am a Ph.D. candidate at the University at Albany studying computational chemistry and physics, and **I am currently looking for postdoctoral positions** in scientific coding or electronic structure theory. My research focuses on the development of molecular dynamics algorithms informed from density functional theory to study various biomolecules. My research is highly coding based and overlaps nicely with data science and machine learning.
-I also have a background in computer science, software development, and teaching.
-
+I am a Postdoctoral Scholar at the University of California, Merced in theoritical chemistry, focusing on the development of molecular dynamics techniques and density functional theory models for the prediction of condense phase spectroscopy. For my Ph.D., my research focused on the development of molecular dynamics algorithms informed from density functional theory to study various biomolecules. My work is highly coding based and overlaps nicely with data science and machine learning. I also have a background in computer science, software development, and teaching.
 
 ### Favorite Coding Projects
 Some of my favorite works include:
-* [CoSIMS](https://github.com/ChristopherAMyers/CoSIMS): A Collision Simulator for Ion Mobility Spectrometry. Published in [*J. Phys. Chem. B* 2019.](https://doi.org/10.1021/acs.jpcb.9b01018)
 * [AmberFD](https://github.com/ChristopherAMyers/AmberFD) library for extending OpenMM with a fluctuating density model (pre-print comming soon!)
+* [CoSIMS](https://github.com/ChristopherAMyers/CoSIMS): A Collision Simulator for Ion Mobility Spectrometry. Published in [*J. Phys. Chem. B* 2019.](https://doi.org/10.1021/acs.jpcb.9b01018)
 * A Python based [QM/MM interface](https://github.com/ChristopherAMyers/QM_MM_Simulations) that links OpenMM and Q-Chem
 
 ### Contact Information
