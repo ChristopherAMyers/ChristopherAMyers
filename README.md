@@ -4,7 +4,7 @@ I am a Postdoctoral Scholar at the University of California, Merced in theoretic
 
 ### Favorite Coding Projects
 Some of my favorite projects include:
-* [AmberFD](https://github.com/ChristopherAMyers/AmberFD) library for extending OpenMM with a fluctuating density model (In review, [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-1rvh3)).
+* [AmberFD](https://github.com/ChristopherAMyers/AmberFD) library for extending OpenMM with a fluctuating density model (In review, [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-1rvh3)). Also check out it's [documentation](https://christopheramyers.github.io/AmberFD_Documentation/html/index.html)!
 * [CoSIMS](https://github.com/ChristopherAMyers/CoSIMS): A Collision Simulator for Ion Mobility Spectrometry. Published in [*J. Phys. Chem. B* 2019.](https://doi.org/10.1021/acs.jpcb.9b01018)
 * A Python based [QM/MM interface](https://github.com/ChristopherAMyers/QM_MM_Simulations) that links OpenMM and Q-Chem
 
