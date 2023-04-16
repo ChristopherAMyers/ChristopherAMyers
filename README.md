@@ -23,7 +23,7 @@ Familiar with Bayesian, maximum entropy and machine learning algorithms.
 
 ### Contact Information
 Feel free to reach out to me at either my email
-* 📫 cmyers2@ucmerced, myerschris92@gmail.com, or you can message me on LinkedIn:
+* 📫 cmyers7@ucmerced, myerschris92@gmail.com, or you can message me on LinkedIn:
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/christopher-myers-35b598125/)
 
 ### Publications
