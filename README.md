@@ -24,15 +24,16 @@ Some of the various projects that I have built or actively contribute to may hel
 #### Algorithms
 Experience with numerical optimization techniques, numerical integration, and linear algebra.
 Strong background in density functional theory and molecular mechanics algorithms.
-Familiar with various machine learning algorithms.
+Familiar with various machine learning algorithms, both supervised and undupervised learning.
 
 ### Contact Information
 I love to meet new people and hear about their work! Feel free to reach out to me at either my email
-* 📫 cmyers7@ucmerced, myerschris92@gmail.com, or you can message me on LinkedIn:
-* [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/christopher-myers-35b598125/)
+* 📫 Myers.Christopher@Proton.me, CMyers7@UCMerced.edu, or you can message me on LinkedIn:
+* [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/christopher-myers-35b598125/)
+&nbsp;
 
 ### Publications
-If you're interested in my research, you might find your own inspiration from some of my publications:
+If you're interested in my research, you might find your own inspiration from some of my publications, many of which have a repository assocated with them:
 
 1. **Christopher A. Myers**, Shao-Yu Lu ,Sapana Shedge, Arthur Pyuskulyan, Katherine Donahoe, Liang Shi, Christine M. Isborn. “Axial H-bonding Solvent Controls Inhomogeneous Spectral Broadening, Peripheral H-bonding Solvent Controls Vibronic Broadening: Cresyl Violet in Methanol.” [J. Phys. Chem. B 2024.](https://doi.org/10.1021/acs.jpcb.4c01401)
     - This project used [MolSpecPy](https://github.com/tjz21/Spectroscopy_python_code) to generate UV-Vis spectra!
