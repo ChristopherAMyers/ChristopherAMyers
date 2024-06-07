@@ -1,9 +1,13 @@
 ### Hi there! 👋
 
-I am a Postdoctoral Scholar at the University of California, Merced in theoretical chemistry, focusing on the development of molecular dynamics techniques and density functional theory models for the prediction of condense phase spectroscopy. For my Ph.D., my research focused on the development of molecular dynamics algorithms informed from density functional theory to study various biomolecules. My work is highly coding based and overlaps nicely with data science and machine learning. I also have a background in computer science, software development, and teaching.
+I am a Postdoctoral Scholar at the University of California, Merced in theoretical chemistry. My research focuses on molecular dynamics, including classical, mixed QM/MM, and nonadiabatic simulations with applications to polaritons, UV-Vis spectroscopy, and machine learning. My work is also tailored towards scientific software development for high performance computing environments, interfacing quantum chemistry programs with molecular mechanics packages and optimizing spectroscopy calculations.
+
+I also have a background in force field development for MD simulations of nucleic acids and other large biomolecules, as well as experience working with a variety of experimental groups in mass spectrometry, polymer chemistry, and various flavors of spectroscopy. I also have a background in computer science, software development, and teaching.
 
 ### Favorite Coding Projects
-Some of my favorite projects include:
+Some of the various projects that I have built or actively contribute to may help you with your research goals:
+* [AI-LSC-IVR](https://github.com/AnanthGroup/AI-LSC-IVR) A nonadibatic, semiclassics simulation program that interfaces with TeraChem and GAMESS electronic structure programs.
+* [MolSpecPy](https://github.com/tjz21/Spectroscopy_python_code) A Python package for simulating various optical spectroscopies from quantum chemisty data.  
 * [AmberFD](https://github.com/ChristopherAMyers/AmberFD) library for extending OpenMM with a fluctuating density model (In review, [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-1rvh3)). Also check out it's [documentation](https://christopheramyers.github.io/AmberFD_Documentation/html/index.html)!
 * [CoSIMS](https://github.com/ChristopherAMyers/CoSIMS): A Collision Simulator for Ion Mobility Spectrometry. Published in [*J. Phys. Chem. B* 2019.](https://doi.org/10.1021/acs.jpcb.9b01018)
 * A Python based [QM/MM interface](https://github.com/ChristopherAMyers/QM_MM_Simulations) that links OpenMM and Q-Chem
@@ -15,31 +19,33 @@ Some of my favorite projects include:
 * Experienced with the procedures for designing, optimizing, and documenting new software.
 * Unix operating systems, Git and GitHub versioning software.
 * OpenMP parallelization
+* An obsession for squeezing out every little bit of performance as possible from a program.
 
 #### Algorithms
 Experience with numerical optimization techniques, numerical integration, and linear algebra.
 Strong background in density functional theory and molecular mechanics algorithms.
-Familiar with Bayesian, maximum entropy and machine learning algorithms.
+Familiar with various machine learning algorithms.
 
 ### Contact Information
-Feel free to reach out to me at either my email
+I love to meet new people and hear about their work! Feel free to reach out to me at either my email
 * 📫 cmyers7@ucmerced, myerschris92@gmail.com, or you can message me on LinkedIn:
 * [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/christopher-myers-35b598125/)
 
 ### Publications
-If you're interested in my research, you might enjoy reading some of my publications:
+If you're interested in my research, you might find your own inspiration from some of my publications:
 
-1. **Christopher A. Myers**, Alan A. Chen. A Fluctuating Density Energy Model for RNA Nucleobase Interactions. [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-1rvh3)
+1. **Christopher A. Myers**, Shao-Yu Lu ,Sapana Shedge, Arthur Pyuskulyan, Katherine Donahoe, Liang Shi, Christine M. Isborn. “Axial H-bonding Solvent Controls Inhomogeneous Spectral Broadening, Peripheral H-bonding Solvent Controls Vibronic Broadening: Cresyl Violet in Methanol.” [J. Phys. Chem. B 2024.](https://doi.org/10.1021/acs.jpcb.4c01401)
+    - This project used [MolSpecPy](https://github.com/tjz21/Spectroscopy_python_code) to generate UV-Vis spectra!
 
-2. Mengwen Yan, **Christopher A. Myers**, Gregory M. John, Vincent E. Meyers, Alan A. Chen, Jeremy I. Feldblyum. Probing the Edges between Stability and Degradation of a Series of ZnSe-Based Layered Hybrid Semiconductors. [*Adv. Mater. Interfaces* 2022.](https://doi.org/10.1002/admi.202200347)
+2. **Christopher A. Myers**, Alan A. Chen. A Fluctuating Density Energy Model for RNA Nucleobase Interactions. [ChemRxiv](https://doi.org/10.26434/chemrxiv-2023-1rvh3)
+    - Implimentation can be found at the [AmberFD](https://github.com/ChristopherAMyers/AmberFD) repo.
 
-3. Rebecca J. D'Esposito, **Christopher A. Myers**, Alan A. Chen, and Sweta Vangaveti, Challenges with simulating modified RNA: Insights into role and reciprocity of experimental and computational approaches. [*Genes* 2022.](https://doi.org/10.3390/genes13030540)
+3. Mengwen Yan, **Christopher A. Myers**, Gregory M. John, Vincent E. Meyers, Alan A. Chen, Jeremy I. Feldblyum. Probing the Edges between Stability and Degradation of a Series of ZnSe-Based Layered Hybrid Semiconductors. [*Adv. Mater. Interfaces* 2022.](https://doi.org/10.1002/admi.202200347)
 
-4. **Christopher A. Myers**, Rebecca J. D’Esposito, Daniele Fabris, Srivathsan V. Ranganathan, Alan A. Chen. CoSIMS: A Collision Simulator for Ion Mobility Spectrometry. [*J. Phys. Chem. B* 2019.](https://doi.org/10.1021/acs.jpcb.9b01018)
+4. Rebecca J. D'Esposito, **Christopher A. Myers**, Alan A. Chen, and Sweta Vangaveti, Challenges with simulating modified RNA: Insights into role and reciprocity of experimental and computational approaches. [*Genes* 2022.](https://doi.org/10.3390/genes13030540)
+
+5. **Christopher A. Myers**, Rebecca J. D’Esposito, Daniele Fabris, Srivathsan V. Ranganathan, Alan A. Chen. CoSIMS: A Collision Simulator for Ion Mobility Spectrometry. [*J. Phys. Chem. B* 2019.](https://doi.org/10.1021/acs.jpcb.9b01018)
     - Software can be found at the [**CoSIMS Repo**!](https://github.com/ChristopherAMyers/CoSIMS)
-
-5. Srivathsan V. Ranganathan, Ken Halvorsen, **Christopher A. Myers**, Neil M. Robertson, Mehmet V. Yigit, Alan A. Chen. Complex Thermodynamic Behavior of Single-Stranded Nucleic Acid Adsorption to Graphene Surfaces. [*Langmuir* 2016.](https://doi.org/10.1021/acs.langmuir.6b00456)
-
 
 
 <!--
